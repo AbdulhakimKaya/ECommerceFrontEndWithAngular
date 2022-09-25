@@ -1,0 +1,47 @@
+.section-head {
+    font-size: 40px;
+    font-family: "Work Sans";
+    margin-bottom: 27px;
+    text-align: center;
+    font-weight: bold;
+    color: #343a40;
+}
+
+.section-subhead {
+    font-size: 16px;
+    color: #343a40;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-right: 300px;
+    padding-left: 300px;
+    text-align: center;
+
+}
+
+.contact-icon {
+    margin-top: 26px;
+    margin-left: 26px;
+    color: #0f70b7;
+}
+
+.contact {
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+
+.contact-subhead-font {
+    text-align: center;
+    font-size: 18px;
+    font-family: "Open Sans";
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.contact-sub-font {
+    color: #343a40;
+    text-align: center;
+    font-size: 14px;
+    font-family: "Open Sans";
+    margin-top: 15px;
+}

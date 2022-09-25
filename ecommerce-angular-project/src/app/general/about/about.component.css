@@ -1,0 +1,28 @@
+.icerik
+{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.resim-container {
+  flex: 1;
+  margin-left: 250px;
+}
+
+.yazi-container {
+  flex: 1;
+  margin-right: 150px;
+
+}
+
+.resim {
+  max-width: 45vw;
+}
+
+.yazi {
+    font-size: 20px;
+}
